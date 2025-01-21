@@ -4,7 +4,7 @@ Welcome to my Python learning repository! This repository documents my journey o
 
 ## Day-by-Day Progress
 
-### Day 1: [21 January 2025]
+### Day 1: [22 January 2025]
 
 #### What I Did:
 - Installed Python and set up my development environment.
